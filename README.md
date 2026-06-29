@@ -11,7 +11,7 @@ Este repositório contém os dados e os códigos utilizados nas análises aprese
 | `data_analysis.ipynb`        | Notebook responsável pela análise exploratória dos dados e pela geração dos gráficos apresentados no artigo. |
 | `topicgpt.ipynb`             | Notebook contendo o processo de modelagem de tópicos utilizando um modelo de linguagem (LLM).                |
 | `classificacao_topicgpt.csv` | Classificações de tópicos produzidas pelo modelo de linguagem durante a etapa de modelagem de tópicos.       |
-| `topic_stats.ipynb`          | Notebook com estatísticas agregadas por tópico                                                               |
+| `topic_stats.ipynb`          | Notebook com estatísticas agregadas por tópico.                                                               |
 ## Requisitos
 
 Os notebooks foram desenvolvidos em Python utilizando Jupyter Notebook. Recomenda-se o uso de um ambiente virtual contendo as bibliotecas necessárias para execução das análises.
